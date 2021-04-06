@@ -12,7 +12,7 @@
  -->
    <!-- Determine this using rosrun pointgrey_camera_driver list_cameras.
        If not specified, defaults to first camera found. -->
-  <arg name="cam0_serial" default="18286011" />
+  <arg name="cam0_serial" default="18575595" />
   <arg name="cam1_serial" default="" />
   <arg name="calibrated" default="1" />
   <arg name="node_start_delay_cam0" default="2.0" />
