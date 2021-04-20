@@ -14,7 +14,7 @@
 /* ----- Camera configuration ----*/
 // Camera 0
 #define CAM0_TOPIC "/versavis/cam0/"
-#define CAM0_RATE 25
+#define CAM0_RATE 5
 #define CAM0_TYPE trigger_type::NON_INVERTED
 #define CAM0_TRIGGER_PIN 14
 #define CAM0_EXPOSURE_PIN 5
